@@ -1,39 +1,40 @@
 # Video_Games_WebSite
-## Projet : Plateforme d'Achat de Jeux Vidéo
+## Project: Video Game Purchase Platform
 
-### Description du Projet
+### Project Description
 
-Ce projet consiste en le développement d'une plateforme en ligne dédiée à l'achat de jeux vidéo. L'objectif principal est de fournir aux utilisateurs une interface conviviale pour explorer, sélectionner et acheter leurs jeux préférés en toute simplicité.
+This project involves the development of an online platform dedicated to video game purchases. The main goal is to provide users with a user-friendly interface to explore, select, and purchase their favorite games effortlessly.
 
-### Technologies Utilisées
+### Technologies Used
 
-Le site web est construit en utilisant les technologies suivantes :
-- PHP : Langage de programmation côté serveur pour la logique métier.
-- HTML : Langage de balisage pour la structure de la page web.
-- CSS : Langage de style pour la mise en page et la présentation visuelle.
+The website is built using the following technologies:
+- PHP: Server-side programming language for business logic.
+- HTML: Markup language for web page structure.
+- CSS: Style sheet language for layout and visual presentation.
+- MariaDB: Relational database management system for storing and managing website data.
 
-### Fonctionnalités
+### Features
 
-1. **Catalogue de Jeux :** Un catalogue complet de jeux vidéo avec des informations détaillées sur chaque titre.
+1. **Game Catalog:** A comprehensive catalog of video games with detailed information about each title.
 
-2. **Système de Panier :** Les utilisateurs peuvent ajouter des jeux à leur panier d'achat et passer à la caisse.
+2. **Shopping Cart System:** Users can add games to their shopping cart and proceed to checkout.
 
-3. **Gestion des Utilisateurs :** Inscription, connexion et gestion des comptes utilisateurs pour un suivi facile des commandes.
+3. **User Management:** Registration, login, and user account management for easy order tracking.
 
-4. **Processus de Paiement Sécurisé :** Intégration d'un système de paiement sécurisé pour garantir des transactions fiables.
+4. **Secure Payment Process:** Integration of a secure payment system to ensure reliable transactions.
 
-5. **Recherche et Filtres :** Des fonctionnalités de recherche avancée et de filtres pour faciliter la découverte de jeux spécifiques.
+5. **Search and Filters:** Advanced search and filtering features to help find specific games.
 
-### Comment Contribuer
+### How to Contribute
 
-Si vous souhaitez contribuer à ce projet, n'hésitez pas à cloner le référentiel, créer une branche, effectuer des modifications, puis soumettre une demande de tirage. Nous accueillons favorablement toute contribution visant à améliorer et à étendre les fonctionnalités de la plateforme.
+If you're interested in contributing to this project, feel free to clone the repository, create a branch, make changes, and then submit a pull request. We welcome any contributions aimed at improving and expanding the platform's functionalities.
 
 ### Installation
 
-1. Clonez le référentiel sur votre machine locale.
+1. Clone the repository to your local machine.
    ```bash
    git clone https://github.com/YounesskOUROU/Video_Games_WebSite.git
 
-### Vue génerale
+### Overview
 
 ![Capture](Capture.JPG)
